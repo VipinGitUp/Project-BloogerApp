@@ -40,13 +40,24 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 Some Screenshot of Blogger-App Project
 
-![Screenshot](https://github.com/VipinGitUp/Blogger-App/assets/118066319/7358df71-db51-4820-9705-7cf25c06f901)
-![Screenshot](https://github.com/VipinGitUp/Blogger-App/assets/118066319/a41a989a-3e90-4260-9ab5-e48fea1f41a6)
-![Screenshot](https://github.com/VipinGitUp/Blogger-App/assets/118066319/adc79f90-df7d-4143-866c-d8ad9c0e1d7b)
-![Screenshot](https://github.com/VipinGitUp/Blogger-App/assets/118066319/bfbf835e-334e-42cd-9ff5-e0b72fa57b86)
+![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/92bb1cdd-13f1-4430-aad8-bbb8731932ff)
+
+![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/72367ab0-a442-4689-b1a9-b788bf91d606)
+
+![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/7545a914-3678-44e8-9756-2d405d63fd1d)
+
+![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/abd663ac-69cf-4416-bee7-d35dadbc1126)
+
 
 Blogger-App Project Video
 
-https://github.com/VipinGitUp/Blogger-App/assets/118066319/bab99c93-db0e-4edb-8245-2d4ebaced32b
+https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/32593b9a-bf54-4540-8c63-8165042ed050
+
+
+
+
+
+
+
 
 
