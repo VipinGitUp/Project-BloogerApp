@@ -1,63 +1,70 @@
-# Project-BloogerApp
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a Blogger app built with React that displays a single blog page and randomly shuffles the blogs on every refresh.
+## Available Scripts
 
-## Features
+In the project directory, you can run:
 
-- Displays a single blog page
-- Fetches blog data from a JSON array
-- Shuffles the blogs on every refresh
-- Responsive UI design
+### `npm start`
 
-## Getting Started
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The file strcture should be as follow-
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
--src
-  -components
-      -blogs.js
-   -data
-      -blog.json
-   -App.js
-   -App.css
- 
-### Prerequisites
-- Node.js (version v18.13.0)
-- npm (version 6.14.13)
+### `npm test`
 
-Import this poject in your VS Code and then run the command (npm start).
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Open your browser and visit [http://localhost:3000](http://localhost:3000) to see the Blogger app in action.
+### `npm run build`
 
-### Customization
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-- To modify the blog data, update the `blogs.json` file in the `src/data` directory with your own blog objects.
-- You can also customize the UI by editing the styles in the `App.css` file.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Contributing
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Some Screenshot of Blogger-App Project
+### `npm run eject`
 
-![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/92bb1cdd-13f1-4430-aad8-bbb8731932ff)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/72367ab0-a442-4689-b1a9-b788bf91d606)
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/7545a914-3678-44e8-9756-2d405d63fd1d)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-![Screenshot](https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/abd663ac-69cf-4416-bee7-d35dadbc1126)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
-Blogger-App Project Video
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-https://github.com/VipinGitUp/Project-BloogerApp/assets/118066319/32593b9a-bf54-4540-8c63-8165042ed050
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
+### Advanced Configuration
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

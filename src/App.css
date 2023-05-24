@@ -1,0 +1,30 @@
+body{
+  background-color: blanchedalmond;
+}
+
+.app {
+  text-align: center;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  
+}
+
+.blog-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.blog {
+  width: 450px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #81d2ed;
+}
+
+.blog h2 {
+  margin-bottom: 30px;
+}
+
+.blog p {
+  color: #0f0202;
+}
